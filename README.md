@@ -48,7 +48,7 @@ Only synthetic delivery instances are stored in this repository. No real custome
 ## Repository Structure
 
 ```text
-docs/         project documentation (Week 1 project scope)
+docs/         project documentation (scope, requirements, evaluation criteria, architecture)
 data/         synthetic delivery instances (no real customer data)
 src/          optimiser source code
 notebooks/    experiments
@@ -61,3 +61,4 @@ prompts/      kept for the course structure; this project does not use an LLM
 | Week | Focus | Deliverable | Status |
 |------|-------|-------------|--------|
 | W1 | Project scope + repository setup | README + docs/week1_project_scope.md | ✅ |
+| W2 | Requirements, evaluation criteria, V1 architecture | docs/week2_requirements.md, docs/week2_evaluation_criteria.md, docs/week2_architecture_v1.png, docs/week2_architecture_decisions.md | ✅ |
